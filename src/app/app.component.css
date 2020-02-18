@@ -1,0 +1,8 @@
+#app {
+  font-family: Bodoni MT, Didot, Didot LT STD, Hoefler Text, Garamond,
+  Times New Roman, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
